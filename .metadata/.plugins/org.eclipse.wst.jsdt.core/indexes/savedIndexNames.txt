@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/home/trishant/snap/Practice/Java/eclipse/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3684443339.index
+4132390906.index
+913902897.index
+3611879145.index
+2794558489.index
